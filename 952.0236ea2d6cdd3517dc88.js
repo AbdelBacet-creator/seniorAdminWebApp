@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksingle_web_page=self.webpackChunksingle_web_page||[]).push([[952],{1952:(s,_,e)=>{e.r(_),e(6423)}}]);
